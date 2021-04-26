@@ -4,6 +4,11 @@
   "description": "Recommendations for TSConfig",
   "scripts": {
   },
+  "files": [
+    "base",
+    "*.json",
+    "*.md"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/searchfe/tsconfig.git"
