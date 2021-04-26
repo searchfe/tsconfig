@@ -3,8 +3,6 @@
         "esModuleInterop": true,
         "allowSyntheticDefaultImports": true,
         "strict": true,
-        "experimentalDecorators": true,
-        "emitDecoratorMetadata": true,
         "noUnusedLocals": true,
         "importHelpers": true,
         "skipLibCheck": true,
