@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Recommendations for TSConfig",
   "scripts": {
+    "semantic-release": "npx semantic-release"
   },
   "files": [
     "base",
@@ -18,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/searchfe/tsconfig/issues"
   },
-  "homepage": "https://github.com/searchfe/tsconfig#readme"
+  "homepage": "https://github.com/searchfe/tsconfig#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^12.1.1",
+    "@commitlint/config-conventional": "^12.1.1",
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "husky": "^6.0.0",
+    "semantic-release": "^17.4.2"
+  }
 }
