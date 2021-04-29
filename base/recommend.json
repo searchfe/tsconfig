@@ -6,6 +6,7 @@
         "noUnusedLocals": true,
         "importHelpers": true,
         "skipLibCheck": true,
-        "forceConsistentCasingInFileNames": true
+        "forceConsistentCasingInFileNames": true,
+        "noFallthroughCasesInSwitch": true
     }
 }
